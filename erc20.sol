@@ -148,7 +148,7 @@ contract ERC20 is IERC20 {
         return true;
     }
 // Fitnesstracker idea contract into 150nm via inverter Idea from 18th Aug. 21:33 2024
-// TODO: build necessary still nonexisting code base for this here!!!!
+// TODO: build necessary still nonexisting code base for this here!!!! Inspired by __chris__ho__ via Threads
     /**
      * @dev Approve the passed address to spend the specified amount of tokens on behalf of msg.sender.
      * Beware that changing an allowance with this method brings the risk that someone may use both the old
