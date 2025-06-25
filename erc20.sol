@@ -524,7 +524,7 @@ interface Compliance {
 }
 
 contract WAV is ERC20, ERC20Detailed, ERC20Mintable, ERC20Burnable, Ownable {
-    uint constant private INITIAL_SUPPLY = 21000000000e18; // 21 Billion
+    uint constant private INITIAL_SUPPLY = 400000000e18; // 400 Million
     string constant public NAME = "WAV Token";
     string constant public SYMBOL = "WAV";
     uint8 constant public DECIMALS = 18;
